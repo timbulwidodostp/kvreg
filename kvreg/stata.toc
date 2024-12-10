@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p kvreg Covariance-dependent control function estimator from Klein Vella, 2010 Use kvreg With STATA 18
